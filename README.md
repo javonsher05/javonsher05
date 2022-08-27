@@ -6,4 +6,6 @@ Hi I'm Javokhirov Javonsher <img src="https://media2.giphy.com/media/gM5qFksULw5
 - <code><img src="https://sass-lang.com/assets/img/styleguide/black-7fd39aa3.png" height="25"></code>
 - <code><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-black.svg" height="25"></code>
 - 🤔 I’m looking for help with ...
+- <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Unofficial_JavaScript_logo.svg/480px-Unofficial_JavaScript_logo.svg.png" height="25"></code>
+<code><img src="https://www.svgrepo.com/show/327388/logo-react.svg" height="25"></code>
 
