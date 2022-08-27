@@ -4,6 +4,6 @@ Hi I'm Javokhirov Javonsher <img src="https://media2.giphy.com/media/gM5qFksULw5
 - <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HTML5_logo_black.svg/1200px-HTML5_logo_black.svg.png" height="25"></code>
 - <code><img src="http://cdn.onlinewebfonts.com/svg/img_436906.png" height="25"></code>
 - <code><img src="https://fontawesomeicons.com/svg/icons/sass" height="25"></code>
-- 
+- <code><img src="https://sass-lang.com/assets/img/styleguide/black-7fd39aa3.png" height="25"></code>>
 - 🤔 I’m looking for help with ...
 
