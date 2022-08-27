@@ -5,6 +5,6 @@ Hi I'm Javokhirov Javonsher <img src="https://media2.giphy.com/media/gM5qFksULw5
 - <code><img src="http://cdn.onlinewebfonts.com/svg/img_436906.png" height="25"></code>
 - <code><img src="https://sass-lang.com/assets/img/styleguide/black-7fd39aa3.png" height="25"></code>
 - 
-- <code><img src="https://getbootstrap.com/docs/5.2/about/brand/" height="25"></code>
+- <code><img src="https://commons.wikimedia.org/wiki/File:Bootstrap_%28CoreUI_Icons_v1.0.0%29.svg" height="25"></code>
 - 🤔 I’m looking for help with ...
 
